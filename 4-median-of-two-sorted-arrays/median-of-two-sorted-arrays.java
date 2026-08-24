@@ -16,4 +16,4 @@ class Solution {
         if(l%2 == 1) return merge[l/2];
         return (merge[l/2 - 1] + merge[l/2] )/ 2.0;
     }
-}
+} //did using normal merge and sort, should be done using binary search 
