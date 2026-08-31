@@ -6,5 +6,5 @@ class Solution {
         for(char c: t.toCharArray()) result ^= c;
 
         return result;
-    }
-} //...
+    }//'jknn
+}
