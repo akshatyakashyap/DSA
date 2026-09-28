@@ -19,5 +19,6 @@ class Solution {
                 l= m+1;
             }
         } return l;
+        //MORE PRAC WTF WAS THAT
     }
 }
